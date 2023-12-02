@@ -2,15 +2,7 @@
 
 
 
-
 ### Installation
-
-Clone the repository
-```bash
-
-git clone https://github.com/allelbhagya/notion.git
-cd notion-clone
-```
 
 Install dependencies:
 ```bash
