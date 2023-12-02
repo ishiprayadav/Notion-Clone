@@ -5,8 +5,7 @@ This is a Notion Clone project, based on the original repository https://github.
 
 
 
-### Demo
-https://bhagya-notion.vercel.app/
+
 
 ### Installation
 
